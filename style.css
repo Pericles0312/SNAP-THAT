@@ -1,0 +1,53 @@
+body {
+  font-family:Calibri;
+  text-align: center;
+  background: LightGrey;
+}
+canvas {
+  width: 100%;
+  height: 42%;
+  background-color:yellow;
+  border-radius: 15px;
+  background-image: url("https://aidanjmcquade.files.wordpress.com/2014/05/julius_caesar.jpg"); 
+  background-size:cover;
+  background-position: center;
+}
+  
+html,body,section{
+  height: 100%;
+}
+  
+h1{
+  background: yellow;
+  padding: 2%;
+  margin: 2%;
+  border:2px solid black;
+  border-radius: 40px;
+}
+
+p{
+  width:40%;
+  float:left;
+  padding: 2%;
+  margin: 2%;
+  border:2px solid black;
+  border-radius: 40px;
+  background: yellow;
+  display: none;  
+}
+
+span#preload-01 {
+  background: url("https://aidanjmcquade.files.wordpress.com/2014/05/julius_caesar.jpg");
+}
+span#preload-02 {
+  background: url("http://nogoodreason.typepad.co.uk/photos/uncategorized/2008/02/04/cicero_2.jpg");
+}
+span#preload-03 {
+  background: url("http://media-2.web.britannica.com/eb-media/21/x13421-004-A2A61DF4.jpg.pagespeed.ic.noDAbG1vB3.jpg");
+}
+span#preload-04 {
+  background: url("http://blog.iese.edu/leggett/files/2012/10/Caesar-augustus1.jpg");
+}
+span#preload-05 {
+  background: url("http://media-1.web.britannica.com/eb-media/63/38563-004-BCCB8251.jpg");
+}
